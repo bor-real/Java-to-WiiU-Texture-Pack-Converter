@@ -143,6 +143,7 @@
         "input/blocks/comparator_on.png" : [192, 176],
         "input/blocks/conduit.png" : [96, 128],
         "input/blocks/cracked_stonebricks.png" : [80, 96],
+        "input/blocks/cracked_stone_bricks.png" : [80, 96],
         "input/blocks/crafting_table_front.png" : [192, 48],
         "input/blocks/crafting_table_side.png" : [176, 48],
         "input/blocks/crafting_table_top.png" : [176, 32],
